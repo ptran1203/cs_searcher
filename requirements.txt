@@ -18,7 +18,7 @@ nltk==3.4.5
 pyOpenSSL==19.0.0
 qtconsole==4.4.3
 queuelib==1.5.0
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.20.1
 Unidecode==1.1.1
 virtualenv==16.4.3
