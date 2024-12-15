@@ -10,7 +10,7 @@ django-js-asset==1.2.2
 django-pagedown==1.0.6
 django-summernote==0.8.11.4
 django-threadedcomments==1.0b1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 gunicorn==19.9.0
 Jinja2==2.10.1
 jsonschema==3.0.1
